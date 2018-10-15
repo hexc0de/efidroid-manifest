@@ -48,8 +48,8 @@
   <project path="modules/e2fsprogs" name="pub/scm/fs/ext2/e2fsprogs" remote="kernel" revision="refs/tags/v1.43.3" />
   <project path="modules/busybox" name="busybox" remote="busybox" revision="refs/heads/1_25_stable" />
   <!-- commonly used modules -->
-  <project path="modules/inih" name="benhoyt/inih" />
-  <project path="modules/squirrel" name="albertodemichelis/squirrel" />
+  <project path="modules/inih" name="benhoyt/inih" revision="f5609c8eae118fc3053c2fe3d02c023c8f0d176c" />
+  <project path="modules/squirrel" name="albertodemichelis/squirrel" revision="5b3bfb21fb1a20cddd28061737973130abeaf68b" />
 
   <!-- UEFI -->
   <project path="uefi/edk2" name="efidroid/edk2" revision="master-lk"/>
